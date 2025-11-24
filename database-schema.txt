@@ -1,0 +1,17 @@
+form_type : {
+1- form_types : string (1000)
+2- name : string (500)
+3: userId : string (500)
+}
+
+records : {
+1- data : string (10000)
+2- userId : string (500)
+3-formTypeId : string (500)
+}
+
+chat : {
+    userId : string (500)
+    role : string (500)
+    messages : string - Array (10000)
+}

@@ -2,7 +2,7 @@
   "name": "form-builder-react",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://pishnahadebehtar.github.io/mother-of-all-forms",
+  "homepage": "https://pishnahadebehtar.github.io/amozesh-form",
   "type": "module",
   "scripts": {
     "dev": "vite",

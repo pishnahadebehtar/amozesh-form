@@ -1,6 +1,10 @@
-1- git remote add origin https://github.com/pishnahadebehtar/amozesh-form.git
-2- git init
+
+1- git init
+2- git remote add origin https://github.com/pishnahadebehtar/amozesh-form.git
 3- git branch -M main
 4- git add .
 5- git commit -m "first"
 6- git push origin main
+7- npm install
+8- npm run build
+9- npm run deploy

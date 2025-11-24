@@ -1,7 +1,6 @@
 1- git remote add origin https://github.com/pishnahadebehtar/amozesh-form.git
 2- git init
 3- git branch -M main
-4- git remote add origin https://github.com/pishnahadebehtar/amozesh-form.git
-5- git add .
-6- git commit -m "first"
-7- git push origin main
+4- git add .
+5- git commit -m "first"
+6- git push origin main

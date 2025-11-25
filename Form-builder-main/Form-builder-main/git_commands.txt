@@ -6,5 +6,3 @@
 5- git add .
 6- git commit -m "first"
 7- git push origin main
-8- npm run build
-9- npm run deploy
